@@ -19,7 +19,7 @@
 				</div>
 				<div class="sign-in-from">
 					<h1 class="mb-0">Iniciar Sesi&oacute;n</h1>
-						<p>Ingrese su Usuario y Clave para ingresar al Tablero de Control</p>
+						<p>Ingrese su Usuario y Clave para ingresar al Sistema</p>
 						<form class="mt-4" action="dologin" method="post" id="login-form">
 							<div class="form-group">
 								<label for="exampleInputEmail1">Usuario</label>
